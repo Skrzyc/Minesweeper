@@ -14,4 +14,6 @@ Minesweeper using tkinter GUI <br />
 * [ ] Flagging on right click
 * [ ] Don't lose on the first field
 * [ ] Revealing fields with 0 mines around
+* [ ] Mines left to flag
+* [ ] Timer - eventually
 
