@@ -1,15 +1,13 @@
 # Minesweeper
-Minesweeper using tkinter GUI
+Minesweeper using tkinter GUI <br />
 
----
 
-**Works, but ain't finished yet**
+**Works, but ain't finished yet** <br />
 
----
 
-**Modules** : `tkinter`, `math`, `random`
+**Modules** : `tkinter`, `math`, `random` 
 
----
+
 
 ## **Things to do :**
 * [ ] Winning
