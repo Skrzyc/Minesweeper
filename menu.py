@@ -1,5 +1,13 @@
 #!/usr/bin/python
-from tkinter import *
+
+# In order to be able to import tkinter for
+# either in python 2 or in python 3
+try:                        
+    from tkinter import *   
+    from tkinter import messagebox 
+except:
+    from Tkinter import *
+    from Tkinter import messagebox
 import game
 
 def run_game(mode):
