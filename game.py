@@ -1,9 +1,12 @@
 #!/usr/bin/python
-from tkinter import *
+try:                        
+    from tkinter import *   
+    from tkinter import messagebox 
+except:
+    from Tkinter import *
+    from Tkinter import messagebox
 from math import fabs
 from random import randint
-
-from tkinter import messagebox
 
 def create_map(tab):
 
